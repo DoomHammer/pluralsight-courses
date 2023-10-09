@@ -2,7 +2,7 @@
 
 Here's a list of repositories for the Pluralsight courses I authored:
 
-[![BDD with Behave and Python]()](https://github.com/DoomHammer/pluralsight-bdd-behave-python)
+[![BDD with Behave and Python](https://github.com/DoomHammer/pluralsight-courses/assets/695373/384dc47d-ce6a-49cd-9a03-8ef115b307bf)](https://github.com/DoomHammer/pluralsight-bdd-behave-python)
 
 [![Developing Node.js Apps with Docker](https://user-images.githubusercontent.com/695373/150931855-1084feb8-fba1-4450-a25e-b897b45d5a82.png)](https://github.com/DoomHammer/pluralsight-developing-nodejs-apps-with-docker)
 
